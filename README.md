@@ -18,4 +18,30 @@ This is a simple Snake game implemented in Java using Swing and JFrame.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/snake-game-java.git
+   git clone https://github.com/swapnanil1/snake-game-java.git
+   ```
+
+2. Open the project in your preferred IDE or text editor &
+
+3. Navigate to the src directory and run the Main.java file.
+
+## Controls
+
+    Up Arrow: Move the snake up
+    Down Arrow: Move the snake down
+    Left Arrow: Move the snake left
+    Right Arrow: Move the snake right
+
+## Features
+
+    Snake grows longer each time it eats food.
+    Game over when the snake collides with the walls or itself.
+    Score counter.
+
+## Contributing
+
+Contributions are welcome! If you find any bugs or have suggestions for improvement, feel free to open an issue or create a pull request.
+
+## License
+
+This project is licensed under the MIT License.
